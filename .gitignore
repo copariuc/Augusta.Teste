@@ -33,10 +33,4 @@ docs/
 po/*~
 # RStudio Connect folder
 rsconnect/
-I.1 - Descriptive.R
-I.2 - Hypothesis.R
-II.1 - Descriptive.R
-II.2 - Hypothesis.R
-III.1 - Decriptive.R
-III.2 - Hypothesis.R
-III.1 - Descriptive.R
+
